@@ -16,5 +16,5 @@ Clustering Methods Comparison is made with DBscan and Agglomerative clustering (
 
 ## Result and code
 
-Please see code [here](https://github.com/mingge612/Kaggle_BikeShare/blob/main/bikeshare.ipynb) for details.
+Please see code [here](https://github.com/mingge612/clustering-models/blob/main/clustering-github.ipynb) for details.
 
